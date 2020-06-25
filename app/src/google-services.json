@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072967704763",
+    "firebase_url": "https://ezyliv-inmates-2020.firebaseio.com",
+    "project_id": "ezyliv-inmates-2020",
+    "storage_bucket": "ezyliv-inmates-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072967704763:android:a205be9ffdbb36f422099e",
+        "android_client_info": {
+          "package_name": "com.rightsteptechnologies.ezyliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072967704763-71b6eokstu76tt658360c4tb99bsmvc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72qwIdVo2iLNneznDr3ESS4EvPog5eYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072967704763-71b6eokstu76tt658360c4tb99bsmvc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/allura</item>
+        <item>@font/amarante</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/coming_soon</item>
+        <item>@font/croissant_one</item>
+        <item>@font/cutive</item>
+        <item>@font/diplomata_sc</item>
+        <item>@font/finger_paint</item>
+        <item>@font/galada</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/homemade_apple</item>
+    </array>
+</resources>

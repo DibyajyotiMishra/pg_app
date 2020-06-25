@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ezyliv</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="don_t_remember_your_password">Don\'t remember your Password?</string>
+    <string name="new_inmate">New Inmate</string>
+    <string name="register_here">Register Here</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_your_email_to_proceed">Enter your email to proceed!</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="live_it_love_it">Live it.... Love it....</string>
+    <string name="supported_by">Supported By:</string>
+    <string name="if_you_are_new_here_please_follow_this_to_know_the_detailed_usage_of_the_app_happy_living">If you are new here, please follow this quick intro to know the detailed usage of the app. Happy Living!</string>
+    <string name="profile_section">Profile Section</string>
+    <string name="you_can_view_your_details_update_your_profile_and_password_and_log_out_of_the_app_as_well">You can view your details, update your profile and password and log out of the app as well.</string>
+    <string name="complaints_section">Complaints Section</string>
+    <string name="you_can_register_a_complaint_here_no_worries_your_complaint_will_be_addressed_by_our_team_asap">You can register a complaint here. No worries! Your complaint will be addressed by our team asap!</string>
+    <string name="you_can_withdraw_your_membership_at_our_ezyliv_community_here_following_which_is_a_review_form_which_should_be_filled_out_by_you_providing_a_reason_for_the_same">You can withdraw your membership at our Ezyliv community here.Following which is a review form which should be filled out by you providing a reason for the same!</string>
+    <string name="withdraw_account_section">Withdraw Account Section</string>
+    <string name="dive_in_verify_your_email_and_let_s_catch_up_inside">Dive in, verify your email and let\'s catch up inside!</string>
+    <string name="start">Got It</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="upload_id_proof">Upload ID Proof</string>
+    <string name="already_registered_login_here">Already registered? Login here..</string>
+    <string name="pg_name">PG Name</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="if_you_do_so_you_will_no_longer_be_a_part_of_our_family_and_will_also_lose_access_to_your_account">If you do so,you will no longer be a part of our family and will also lose access to your account.</string>
+    <string name="are_you_sure_you_want_to_delete_your_membership">Are you sure you want to delete your membership?</string>
+    <string name="accept">Accept</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="update_your_details">Update your details</string>
+    <string name="update_password">Update Password</string>
+    <string name="reset">Reset</string>
+    <string name="update">Update</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+
+</resources>

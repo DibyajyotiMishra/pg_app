@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity"
+    android:background="@drawable/bg12">
+    <ImageView
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:src="@drawable/logo"
+        android:layout_marginStart="150dp"
+        android:layout_marginLeft="150dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="90dp"
+        android:fontFamily="@font/croissant_one"
+        android:text="@string/profile"
+        android:textColor="#070707"
+        android:textSize="30sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/ProfileUserid"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginTop="150dp"
+            android:text="@string/username"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:layout_marginLeft="80dp"
+            android:layout_marginStart="80dp" />
+
+        <TextView
+            android:id="@+id/profileEmail"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:text="UserEmail"
+            android:textColor="#FFF"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/profileMobileNumber"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:text="UserPhoneNumber"
+            android:textColor="#FFF"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ProfilePGname"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:text="UserPGName"
+            android:textColor="#FFF"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/updateProfile"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/update_your_details"
+            android:textColor="#3F51B5"
+            android:textStyle="bold"
+            android:layout_marginLeft="80dp"
+            android:layout_marginStart="80dp" />
+        <TextView
+            android:id="@+id/UpdatePassword"
+            android:layout_width="250dp"
+            android:layout_height="31dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/update_password"
+            android:textColor="#3F51B5"
+            android:textStyle="bold"
+            android:layout_marginLeft="80dp"
+            android:layout_marginStart="80dp" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
